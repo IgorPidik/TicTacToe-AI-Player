@@ -1,8 +1,8 @@
 # TicTacToe-AI-Player
 TicTacToe AI player made with Qt and graphics is made in QML
 
-![img](http://imgur.com/c1DfjzV)
-![img](http://imgur.com/YQMQWTb)
+![img](http://i.imgur.com/c1DfjzV.png)
+![img](http://i.imgur.com/YQMQWTb.png)
 
 AI player is based on [MinMax Algorithm](https://en.wikipedia.org/wiki/Minimax) for 2 players games
 
